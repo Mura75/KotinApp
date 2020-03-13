@@ -1,5 +1,7 @@
 package com.mobile.mykotlinapp;
 
+
+// skjkld jsdflk sdlkf jsdlkf jl
 public class Bank {
 
     private String name;
