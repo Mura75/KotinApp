@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 
 class JavaActivity : AppCompatActivity() {
 
-    //ddslfdlf  sdfjskdlfjdslk
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_java)
